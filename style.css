@@ -69,3 +69,15 @@ main img{
   height: 200px;
   border: 10px groove #8935DE;
 }
+header img{
+  height: 80px;
+  padding: 1px;
+  margin-left:10px;
+  margin-top:15px;
+}
+
+.logo{
+  text-align: left;
+  color: white;
+}
+
